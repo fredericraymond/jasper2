@@ -2,14 +2,14 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: 'fr-ca'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Le labo de Frédéric Raymond
+description: La vie n'est pas une culture pure
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
